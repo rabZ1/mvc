@@ -30,3 +30,35 @@ C:\Users\Syku\Documents\Visual Studio 2013\Projects\MvcApplication3\MvcApplicati
 C:\Users\Syku\Documents\Visual Studio 2013\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.dll
 C:\Users\Syku\Documents\Visual Studio 2013\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.pdb
 C:\Users\Syku\Documents\Visual Studio 2013\Projects\MvcApplication3\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+C:\GIT\mvc\MvcApplication3\bin\MvcApplication3.dll.config
+C:\GIT\mvc\MvcApplication3\bin\MvcApplication3.dll
+C:\GIT\mvc\MvcApplication3\bin\MvcApplication3.pdb
+C:\GIT\mvc\MvcApplication3\bin\Antlr3.Runtime.dll
+C:\GIT\mvc\MvcApplication3\bin\EntityFramework.dll
+C:\GIT\mvc\MvcApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT\mvc\MvcApplication3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\GIT\mvc\MvcApplication3\bin\Newtonsoft.Json.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Net.Http.Formatting.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Http.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Http.WebHost.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Mvc.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Optimization.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Providers.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Razor.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.WebPages.dll
+C:\GIT\mvc\MvcApplication3\bin\System.Web.WebPages.Razor.dll
+C:\GIT\mvc\MvcApplication3\bin\WebGrease.dll
+C:\GIT\mvc\MvcApplication3\bin\EntityFramework.xml
+C:\GIT\mvc\MvcApplication3\bin\Newtonsoft.Json.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Net.Http.Formatting.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Http.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Http.WebHost.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Mvc.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.Razor.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.WebPages.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\GIT\mvc\MvcApplication3\bin\System.Web.WebPages.Razor.xml
+C:\GIT\mvc\MvcApplication3\obj\Debug\MvcApplication3.csprojResolveAssemblyReference.cache
+C:\GIT\mvc\MvcApplication3\obj\Debug\MvcApplication3.dll
+C:\GIT\mvc\MvcApplication3\obj\Debug\MvcApplication3.pdb
